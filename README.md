@@ -1,6 +1,8 @@
 # Лабораторна робота №1: Fine-tuning великих мовних моделей
 Виконав: ст. гр. ІПЗм-25-2 Ханьжин М.А.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NureKhanzhynMykyta/GNN_Lab1/blob/main/LLM_Finetuning_template.ipynb) - Додав інший шлях для перегляду Нотбука, тому що гітхаб не може відображати його у перегляді файлу.
+
 ## 1. Опис роботи
 У цій роботі проведено донавчання мовної моделі LFM2-1.2B для адаптації стилю генерації тексту під манеру мовлення Майстра Йоди («Yoda speak»). 
 
